@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>🛡️ Cybersecurity Expert & Automation Dev</h3>
+      <h3>🛡️ Cybersecurity Student & Bug Bounty Learner</h3>
       <p><i>*powered by way too much coffee and terminal logs ☕*</i></p>
       <br />
       <p>Network logs run my life. If you catch me without wireshark or a terminal open, send help 🎧</p>
@@ -42,6 +42,6 @@
 ---
 
 ### 🎯 Current Focus
-- 🛡️ Refining methodologies for bug bounty hunting and web application penetration testing.
+- 🛡️ Learning web application penetration testing methodologies and practicing on labs.
 - 🎛️ Experimenting with hardware hacking and automating tasks using microcontrollers.
-- 🤖 Integrating automated scripts for security auditing framework updates.
+- 🤖 Writing basic python automation scripts to help speed up daily workflows.
