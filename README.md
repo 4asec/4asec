@@ -13,7 +13,7 @@
     </td>
     <td width="40%" valign="top">
       <!-- GIF Kucing Cyberpunk Ngetik Keyboard -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmsxd3M0N2Nid2pwdm10M3FpYXd5Zm10bndpYmF0eXp5bmtqN3Z1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9AI3DOykfTscBqf6zs/giphy.gif" width="100%" alt="Cyber Cat Coding" />
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-readme-creator/main/templates/cyberpunk/assets/cyber-cat.gif" width="100%" alt="Cyber Cat Coding" />
     </td>
   </tr>
 </table>
