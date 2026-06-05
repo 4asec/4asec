@@ -13,7 +13,7 @@
     </td>
     <td width="40%" valign="top">
       <!-- GIF Kucing Cyberpunk Ngetik Keyboard -->
-      <img src="[https://raw.githubusercontent.com/Schweinepriester/github-profile-readme-creator/main/templates/cyberpunk/assets/cyber-cat.gif](https://tenor.com/id/view/yoru-chainsaw-man-good-morning-asa-mitaka-gif-5976230025308141821)" width="100%" alt="Cyber Cat Coding" />
+      <img src="[https://tenor.com/id/view/yoru-chainsaw-man-good-morning-asa-mitaka-gif-5976230025308141821]" width="100%" alt="Cyber Cat Coding" />
     </td>
   </tr>
 </table>
