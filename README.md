@@ -13,7 +13,7 @@
     </td>
     <td width="40%" valign="top">
       <!-- GIF Kucing Cyberpunk Ngetik Keyboard -->
-      <img src="https://media1.tenor.com/m/Uu_Vi2qD-P0AAAAC/yoru-chainsaw-man.gif" width="100%" alt="Asa Mitaka" />
+      <img src="" width="100%" alt="Asa Mitaka" />
     </td>
   </tr>
 </table>
