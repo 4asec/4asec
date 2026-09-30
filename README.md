@@ -1,23 +1,5 @@
 # Hey there, I'm 4asec! 👋
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🛡️ Cybersecurity Student & Bug Bounty Learner</h3>
-      <p><i>*powered by way too much coffee and terminal logs ☕*</i></p>
-      <br />
-      <p>Network logs run my life. If you catch me without wireshark or a terminal open, send help 🎧</p>
-      <p>Late-night compilation is sanity. No cap. 💯</p>
-      <br />
-      <img src="https://profile-counter.glitch.me/4asec/count.svg" alt="visitors" />
-    </td>
-    <td width="40%" valign="top">
-      <!-- GIF Kucing Cyberpunk Ngetik Keyboard -->
-      <img src="" width="100%" alt="Asa Mitaka" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 🛠️ Tech Stack & Cyber Labs
