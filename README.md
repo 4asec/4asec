@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="1579feb3e44c8e658aac136445720687-ezgif com-optimize" src="https://github.com/user-attachments/assets/4c21263b-73b7-481c-8c56-ffcb0a324433" />
 <div align="center">
 
 # 𝔅𝔞𝔠𝔨𝔢𝔫𝔡 & 𝔖𝔢𝔠𝔲𝔯𝔦𝔱𝔶 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯
