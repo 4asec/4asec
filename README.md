@@ -17,7 +17,7 @@
       <p>✦ &nbsp;<b>Alias</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➔ &nbsp; <code>4asec</code></p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="[https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://i.pinimg.com/originals/15/79/fe/1579feb3e44c8e658aac136445720687.gif)" width="170px" alt="Gothic Cross" />
+      <img src="https://i.pinimg.com/originals/15/79/fe/1579feb3e44c8e658aac136445720687.gif" width="180px" alt="Aesthetic Cross" />
     </td>
   </tr>
 </table>
