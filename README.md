@@ -8,16 +8,18 @@
 
 <br/>
 
-<table align="center" width="100%" style="width: 100%; border-collapse: collapse;">
+<table width="100%">
   <tr>
-    <td width="65%" valign="middle" align="left">
+    <td width="55%" valign="middle" align="left">
+      <br/>
       <p>✦ &nbsp;<b>Class</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➔ &nbsp; <code>Backend / Cyber Security Apprentice</code></p>
       <p>✦ &nbsp;<b>Origin</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➔ &nbsp; <code>Indonesia 🇮🇩</code></p>
       <p>✦ &nbsp;<b>Status</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➔ &nbsp; <code>Undergraduate Informatics Student</code></p>
       <p>✦ &nbsp;<b>Alias</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➔ &nbsp; <code>4asec</code></p>
+      <br/>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/4c21263b-73b7-481c-8c56-ffcb0a324433" width="180px" alt="Aesthetic Cross" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/4c21263b-73b7-481c-8c56-ffcb0a324433" width="100%" alt="Cyber Aesthetic" />
     </td>
   </tr>
 </table>
