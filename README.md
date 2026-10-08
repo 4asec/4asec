@@ -46,17 +46,25 @@
 
 <br/>
 
-### 𝔖𝔱𝔞𝔱𝔦𝔰𝔱𝔦𝔠𝔰
+### 𝔖𝔢𝔠𝔲𝔯𝔦𝔱𝔶 ℭ𝔬𝔫𝔰𝔬𝔩𝔢
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=4asec&show_icons=true&theme=dark&bg_color=00000000&text_color=8b949e&icon_color=ffffff&title_color=f0f6fc&hide_border=true&count_private=true" width="390px" alt="Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4asec&layout=compact&theme=dark&bg_color=00000000&text_color=8b949e&title_color=f0f6fc&hide_border=true" width="290px" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 18px; font-family: 'Courier New', Courier, monospace;">
+
+```bash
+┌──(4asec㉿kali)-[~/profile]
+└─$ whoami
+Muhammad Raffa Danendra (4asec)
+
+┌──(4asec㉿kali)-[~/profile]
+└─$ cat current_focus.txt
+[+] Role        : D4 Informatics Engineering Student
+[+] Focus Area  : Web App Penetration Testing & Bug Bounty Labs
+[+] Active Tools: Burp Suite Pro, Kali Linux, Python Automation
+
+┌──(4asec㉿kali)-[~/profile]
+└─$ ./init_session.sh --status
+[*] Target Systems : In Scope
+[*] Labs Completed : PortSwigger Academy & Web Challenges
+[*] Mission Status : Continuous Learning & Research
