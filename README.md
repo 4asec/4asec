@@ -52,23 +52,23 @@ Saya mendalami irisan antara offensive security dan rekayasa machine learning. S
 
 Di sisi automasi, saya bereksperimen dengan deployment model AI lokal dan arsitektur backend Python agar bisa beroperasi efisien tanpa mengorbankan integritas keamanan.
 
-The Usual Security Problem
+### The Usual Security Problem
+---
 Celah paling kritis hampir tidak pernah muncul dari sintaks yang rumit, melainkan dari asumsi yang dianggap sepele:
 
-"Endpoint ini sifatnya internal, jadi inputnya pasti aman."
+> "Endpoint ini sifatnya internal, jadi inputnya pasti aman."
 
 Di titik itulah sistem biasanya runtuh: saat logika bisnis bertemu dengan edge case yang tidak pernah diperhitungkan oleh perancangnya.
 
-What I Usually Work On
-Web Application Penetration Testing — Eksplorasi lab PortSwigger, OWASP Top 10, dan analisis celah logika bisnis.
+### What I Usually Work On
+---
+- Web Application Penetration Testing — Eksplorasi lab PortSwigger, OWASP Top 10, dan analisis celah logika bisnis.
+- Applied AI Engineering — Inferensi model PyTorch, optimasi pipeline data, dan arsitektur model lokal.
+- Network & Traffic Inspection — Intersepsi paket, analisis proxy Burp Suite, dan automasi skrip audit.
+- Hardware & IoT Prototypes — Eksperimen mikrokontroler sensorik serta interaksi sinyal digital.
 
-Applied AI Engineering — Inferensi model PyTorch, optimasi pipeline data, dan arsitektur model lokal.
-
-Network & Traffic Inspection — Intersepsi paket, analisis proxy Burp Suite, dan automasi skrip audit.
-
-Hardware & IoT Prototypes — Eksperimen mikrokontroler sensorik serta interaksi sinyal digital.
-
-Tools I Reach For
+### Tools I Reach For
+---
 Current Rabbit Holes
 Adversarial Machine Learning — Meneliti bagaimana model AI bereaksi terhadap manipulasi input data dan jailbreak prompt.
 
