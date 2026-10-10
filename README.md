@@ -21,13 +21,16 @@ Building local neural architectures, testing attack vectors, and exploring how s
 ### Opening Scene
 
 ```bash
-SELECT target, vulnerability_surface, model_weights
-FROM systems
-WHERE is_hardened = false
-  AND logic_flaws_exist = true;
+┌──(4asec㉿kali)-[~/workspace]
+└─$ python3 inspect_environment.py --scope all
+[+] Initializing Neural Engine & Local Weights ... [ OK ]
+[+] Intercepting Web App Surface via Proxy      ... [ ACTIVE ]
+[+] Checking System Boundaries & Logic Flaws    ... [ FOUND ]
 
--- 1 target detected.
--- deploying inspection suite.
+-- Target surface identified.
+-- Initializing offensive research routine.
+```
+
 About the Work
 Saya mendalami irisan antara offensive security dan rekayasa machine learning. Sebagian besar waktu saya dihabiskan untuk menganalisis alur data, membedah API endpoint, dan menguji batas ketahanan sistem lewat simulasi penetrasi aplikasi web.
 
@@ -54,5 +57,3 @@ Current Rabbit Holes
 Adversarial Machine Learning — Meneliti bagaimana model AI bereaksi terhadap manipulasi input data dan jailbreak prompt.
 
 Automated Reconnaissance — Menyusun alur scanning celah logika berbasis skrip modular yang adaptif.
-
-Find Me
