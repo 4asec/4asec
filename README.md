@@ -31,7 +31,8 @@ Building local neural architectures, testing attack vectors, and exploring how s
 -- Initializing offensive research routine.
 ```
 
-About the Work
+### About the Work
+---
 Saya mendalami irisan antara offensive security dan rekayasa machine learning. Sebagian besar waktu saya dihabiskan untuk menganalisis alur data, membedah API endpoint, dan menguji batas ketahanan sistem lewat simulasi penetrasi aplikasi web.
 
 Di sisi automasi, saya bereksperimen dengan deployment model AI lokal dan arsitektur backend Python agar bisa beroperasi efisien tanpa mengorbankan integritas keamanan.
