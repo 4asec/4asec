@@ -12,7 +12,7 @@ Building local neural architectures, testing attack vectors, and exploring how s
 
 <br/>
 
-[![Profile Views](https://img.shields.io/badge/PROFILE_VIEWS-240-007ec6?style=flat-square&logo=github)](https://github.com/4asec)
+[![Profile Views](https://komarev.com/ghpvc/?username=4asec&base=200&color=007ec6&style=flat-square&label=PROFILE+VIEWS)](https://github.com/4asec)
 &nbsp;•&nbsp;
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/4asec)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/4asec)
