@@ -58,7 +58,7 @@ Celah paling kritis hampir tidak pernah muncul dari sintaks yang rumit, melainka
 
 > "Endpoint ini sifatnya internal, jadi inputnya pasti aman."
 
-Di titik itulah sistem biasanya runtuh, karena logika bisnis bertemudengane kasus yang tidak pernah diperhitungkan oleh perancangnya.
+Di titik itulah sistem biasanya runtuh, karena logika bisnis bertemu dengan kasus yang tidak pernah diperhitungkan oleh perancangnya.
 
 ### What I Usually Work On
 ---
