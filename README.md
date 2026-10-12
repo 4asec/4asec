@@ -69,7 +69,6 @@ Di titik itulah sistem biasanya runtuh, karena logika bisnis bertemu dengan kasu
 
 ### Tools I Reach For
 ---
-Current Rabbit Holes
-Adversarial Machine Learning — Meneliti bagaimana model AI bereaksi terhadap manipulasi input data dan jailbreak prompt.
-
-Automated Reconnaissance — Menyusun alur scanning celah logika berbasis skrip modular yang adaptif.
+- Current Rabbit Holes
+- Adversarial Machine Learning — Meneliti bagaimana model AI bereaksi terhadap manipulasi input data dan jailbreak prompt.
+- Automated Reconnaissance — Menyusun alur scanning celah logika berbasis skrip modular yang adaptif.
